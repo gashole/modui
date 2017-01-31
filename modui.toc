@@ -20,6 +20,7 @@ actionbar\bagbar.lua
 actionbar\bar.lua
 actionbar\cooldown.lua
 actionbar\keypress.lua
+actionbar\rangecolour.lua
 actionbar\paging.lua
 actionbar\stats.lua
 actionbar\xp.lua
